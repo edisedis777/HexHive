@@ -12,14 +12,14 @@ HexHive showcases a swarm of hexagon-shaped particles that explode outward from 
 
 ## Installation
 
-### To get started with HexHive Frenzy locally:
+### To get started with HexHive locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/HexHive-Frenzy.git
+   git clone https://github.com/yourusername/HexHive.git
    ```
 2. Navigate to the project folder:
 ```
-cd HexHive-Frenzy
+cd HexHive
 ```
 
 3. Open index.html in your web browser—no additional setup or dependencies needed!
@@ -31,7 +31,7 @@ Once you open index.html, the animation kicks off automatically. Here’s what y
 - Resize your browser window to see how the animation adjusts dynamically to different dimensions.
 
 ### Customization
-Want to tweak the frenzy? Open script.js and play with the following settings:
+Want to tweak the animation? Open script.js and play with the following settings:
 
 **count: Adjust the number of particles (e.g., increase to 30 for a denser swarm).
 **particleSize: Change the size of the hexagons.
