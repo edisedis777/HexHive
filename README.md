@@ -5,6 +5,9 @@ Built using HTML5 canvas, this project offers a nice visual experience that adap
 
 ![HexHive](https://github.com/user-attachments/assets/06087c52-42b0-4b67-a931-bad055fe15e7)
 
+## Demo
+
+Try it live: [HERE](https://edisedis777.github.io/DNA-Helix/)
 
 ## Description
 
