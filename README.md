@@ -3,7 +3,8 @@
 **HexHive** is an engaging web-based animation that brings to life a swarm of hexagonal particles bursting forth like bees from a hive, complete with dynamic animation. 
 Built using HTML5 canvas, this project offers a nice visual experience that adapts seamlessly to any screen size.
 
-![HexHive Frenzy Animation](path/to/screenshot.gif)
+[HexHive](https://github.com/user-attachments/assets/06087c52-42b0-4b67-a931-bad055fe15e7)
+
 
 ## Description
 
