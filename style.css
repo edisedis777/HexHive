@@ -1,0 +1,24 @@
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgb(50, 30, 0); /* Dark brown/golden background */
+}
+
+#title {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  z-index: 1;
+  text-align: center;
+  font-size: 2em;
+}
+
+@media (max-width: 600px) {
+  #title {
+    font-size: 1.5em;
+    top: 10px;
+  }
+}
